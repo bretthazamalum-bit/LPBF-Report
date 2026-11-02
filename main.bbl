@@ -156,4 +156,27 @@ N.~Menon, S.~Mondal, and A.~Basak, ``Multi-fidelity surrogate-based process
   release 2025 R1. Ansys, Inc., Southpointe, 2600 Ansys Drive, Canonsburg, PA
   15317.
 
+\bibitem{AddUpImpellerWheel}
+\BIBentryALTinterwordspacing
+{AddUp}. (2026) Impeller wheel: Optimizing the scan strategy for mass
+  production of an impeller. Automotive metal powder bed fusion case study.
+  [Online]. Available:
+  \url{https://addupsolutions.com/applications/impeller-wheel/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Caiazzo2017LPBFTurbineBlades}
+\BIBentryALTinterwordspacing
+F.~Caiazzo, V.~Alfieri, G.~Corrado, and P.~Argenio, ``Laser powder-bed fusion
+  of inconel 718 to manufacture turbine blades,'' \emph{The International
+  Journal of Advanced Manufacturing Technology}, vol.~93, pp. 4023--4031, 2017.
+  [Online]. Available: \url{https://doi.org/10.1007/s00170-017-0839-3}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Sher2020PapadakisTurboManifold}
+\BIBentryALTinterwordspacing
+D.~Sher. (2020, Dec.) Papadakis racing shows off massive inconel 3d-printed
+  turbo manifold. [Online]. Available:
+  \url{https://www.voxelmatters.com/papadaskis-racing-shows-off-massive-inconel-3d-printed-turbo-manifold/}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

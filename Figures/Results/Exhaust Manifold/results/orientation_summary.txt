@@ -1,0 +1,38 @@
+LPBF ORIENTATION RESULTS SUMMARY
+==================================
+Records read: 25
+Successful simulations: 25
+Failed/incomplete simulations: 0
+Contour-map Rz slice: 0 degrees
+Optimization metric: average stress
+
+OPTIMIZED ORIENTATION
+---------------------
+Best average orientation: bo_024 (Rx=48.75°, Ry=67.5°, Rz=0°)
+Average equivalent stress: 176.3124 MPa
+Maximum equivalent stress: 1231.7851 MPa
+STEP file: C:\Users\Brett\Documents\Codex\2026-09-22\https-github-com-bretthazamalum-bit-lpbf\work\LPBF-Project\generated_steps\bo_024_Rx48p75_Ry67p5_Rz0.step
+JSON file: D:\SJSU\Project results\Exhaust Manifold\results\bo_024_results.json
+Screenshot: C:\Users\Brett\Documents\Codex\2026-09-22\https-github-com-bretthazamalum-bit-lpbf\work\LPBF-Project\results\bo_024_equivalent_stress.png
+
+GLOBAL BESTS
+------------
+Lowest average stress: 176.3124 MPa at Rx=48.75°, Ry=67.5°, Rz=0°
+Lowest maximum stress: 850.7986 MPa at Rx=135°, Ry=135°, Rz=0°
+Baseline average stress: 239.9314 MPa
+Average-stress improvement: 26.52%
+
+Contour map: D:\SJSU\Project results\Exhaust Manifold\results\orientation_contour_map.svg
+
+TOP ORIENTATIONS BY AVERAGE STRESS
+-------------------------------
+ 1. bo_024: Rx=48.75°, Ry=67.5°, Rz=0°; avg=176.3124 MPa; max=1231.7851 MPa
+ 2. bo_019: Rx=45°, Ry=90°, Rz=0°; avg=176.3437 MPa; max=1001.8610 MPa
+ 3. bo_022: Rx=45°, Ry=75°, Rz=0°; avg=178.7303 MPa; max=1127.2681 MPa
+ 4. bo_023: Rx=45°, Ry=71.25°, Rz=0°; avg=179.1454 MPa; max=1076.8154 MPa
+ 5. bo_014: Rx=52.5°, Ry=97.5°, Rz=0°; avg=189.3703 MPa; max=1075.3772 MPa
+ 6. bo_025: Rx=52.5°, Ry=63.75°, Rz=0°; avg=195.5439 MPa; max=1231.0762 MPa
+ 7. bo_020: Rx=52.5°, Ry=82.5°, Rz=0°; avg=196.6225 MPa; max=1203.1349 MPa
+ 8. bo_017: Rx=127.5°, Ry=52.5°, Rz=0°; avg=204.4145 MPa; max=1001.6106 MPa
+ 9. bo_007: Rx=67.5°, Ry=112.5°, Rz=0°; avg=210.3387 MPa; max=915.3711 MPa
+10. bo_010: Rx=112.5°, Ry=67.5°, Rz=0°; avg=210.8988 MPa; max=1187.0932 MPa

@@ -1,0 +1,35 @@
+{
+  "run_id": "bo_004",
+  "status": "success",
+  "step_file": "C:\\Users\\Brett\\Documents\\Codex\\2026-09-22\\https-github-com-bretthazamalum-bit-lpbf\\work\\LPBF-Project\\generated_steps\\bo_004_Rx90_Ry90_Rz0.step",
+  "rotation_degrees": {
+    "rot_x": 90.0,
+    "rot_y": 90.0,
+    "rot_z": 0.0
+  },
+  "stress_results": {
+    "screenshot_file": "C:\\Users\\Brett\\Documents\\Codex\\2026-09-22\\https-github-com-bretthazamalum-bit-lpbf\\work\\LPBF-Project\\results\\bo_004_equivalent_stress.png",
+    "min_stress": "2.72383823567553E-06 [Pa]",
+    "average_stress": "266765296.78994703 [Pa]",
+    "max_stress": "908997586.10146821 [Pa]",
+    "selected_analysis_name": "Static Structural",
+    "selected_analysis_index": 1,
+    "analysis_diagnostics": [
+      {
+        "solution_status": "Done",
+        "solution_children": 1,
+        "index": 0,
+        "name": "Transient Thermal",
+        "solution_type": "Solution"
+      },
+      {
+        "solution_status": "Done",
+        "solution_children": 1,
+        "index": 1,
+        "name": "Static Structural",
+        "solution_type": "Solution"
+      }
+    ],
+    "screenshot_error": ""
+  }
+}
